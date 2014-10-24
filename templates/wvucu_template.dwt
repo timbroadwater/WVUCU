@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+<head>
+<link href="../styles/styles.css" rel="stylesheet" type="text/css">
+<meta charset="utf-8">
+<title>WVUCU</title>
+</head>
+
+<body>
+<header class="wrap"></header>
+<div id="topNav">
+    <nav class="wrap">
+        <ul>
+            <li><a href="3">Link 1</a></li>
+            <li><a href="3">Link 2</a></li>
+            <li><a href="3">Link 3</a></li>
+            <li><a href="3">Link 4</a></li>
+            <li><a href="3">Link 5</a></li>                                
+        </ul>
+    </nav>
+</div>    
+<article class="wrap"><!-- TemplateBeginEditable name="BodyContent" -->BodyContent<!-- TemplateEndEditable --></article>
+<footer class="wrap"></footer>
+</body>
+</html>
